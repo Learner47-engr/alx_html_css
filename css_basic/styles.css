@@ -26,4 +26,5 @@ article:hover {
 aside {
     flex: 1;
     overflow-y: auto;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
